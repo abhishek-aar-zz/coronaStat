@@ -25,7 +25,7 @@ R for Data Science.
 1. Download the recent database from kaggle, name it as "data.csv".
 2. Download the "r.r" file from the repository and run it.
 3. Thats it and exit.
-4. You will find a csv file names "Prediction.csv", export it to whatver format you want. Have it and share it.
+4. You will find a csv file named "Prediction.csv", export it to whatever format you want to. Have it and share it.
 
 
 #### Thank You
